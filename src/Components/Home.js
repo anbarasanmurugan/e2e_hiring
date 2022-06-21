@@ -8,8 +8,9 @@ function Home() {
     localStorage.clear();
     history("/");
   };
-  const merge=()=>{
-  }
+  const merge = () => {
+    console.log(merge);
+  };
 
   return (
     <>
